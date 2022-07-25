@@ -1,5 +1,5 @@
 # First-Portfolio
-HTML/CSS
+My first  basic
 
 ## Portfolio 
 useing HTML and CSS only
